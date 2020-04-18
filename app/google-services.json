@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "279244064294",
+    "firebase_url": "https://multibrand-ce71c.firebaseio.com",
+    "project_id": "multibrand-ce71c",
+    "storage_bucket": "multibrand-ce71c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279244064294:android:6d0234d2d09214349f88e7",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279244064294-86psm5ptrlidbbmtl6k6c1f04uvqtnul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce",
+            "certificate_hash": "e6682e957355fd7abb813ed20068e278323e3e2d"
+          }
+        },
+        {
+          "client_id": "279244064294-2ptmt0u3qdlt7s5c983kk0mliv3qdpa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvWFyt3LmgET4N6ZxltzLzPtUNVKJhC6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279244064294-2ptmt0u3qdlt7s5c983kk0mliv3qdpa3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
